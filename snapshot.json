@@ -1,0 +1,3936 @@
+{
+  "devices": [
+    {
+      "fields": {
+        "二维码": "DTS-25-04",
+        "当前位置": "库存检查",
+        "自动分类": "DTS",
+        "设备名称": "DTS2509004",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvmdWGTKfxtQ",
+      "record_id": "recvmdWGTKfxtQ"
+    },
+    {
+      "fields": {
+        "二维码": "DTS-26-01",
+        "自动分类": "DTS",
+        "设备名称": "DTS2601001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvmdWW4g7GiR",
+      "record_id": "recvmdWW4g7GiR"
+    },
+    {
+      "fields": {
+        "二维码": "DTS-26-02",
+        "自动分类": "DTS",
+        "设备名称": "DTS2602002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvmdWXDH7y0n",
+      "record_id": "recvmdWXDH7y0n"
+    },
+    {
+      "fields": {
+        "二维码": "DTS-26-03",
+        "当前位置": "库存检查",
+        "自动分类": "DTS",
+        "设备名称": "DTS2603003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvmdWZb2KebV",
+      "record_id": "recvmdWZb2KebV"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-001",
+        "自动分类": "光纤工具",
+        "设备名称": "OTDR-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFsNki4jB",
+      "record_id": "recuSeFsNki4jB"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-002",
+        "当前位置": "库存检查",
+        "自动分类": "光纤工具",
+        "设备名称": "OTDR-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeFxapFqs0",
+      "record_id": "recuSeFxapFqs0"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-003",
+        "自动分类": "光纤工具",
+        "设备名称": "OTDR-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFApYpluM",
+      "record_id": "recuSeFApYpluM"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-004",
+        "最新入库时间": 46184.7278240741,
+        "最新出库时间": 46188.8528240741,
+        "自动分类": "光纤工具",
+        "设备名称": "OTDR-04",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvneF0iZS8HE",
+              "recvmFyJs3gfbI",
+              "recvmFyJs3tPcI"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "23,10,11",
+            "text_arr": [
+              "23",
+              "10",
+              "11"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFApYl7fp",
+      "record_id": "recuSeFApYl7fp"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-001",
+        "自动分类": "存储",
+        "设备名称": "Raid绿联-01",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnsbpj4uqde"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeGEuyTfJF",
+      "record_id": "recuSeGEuyTfJF"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-002",
+        "自动分类": "存储",
+        "设备名称": "Raid绿联-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGGLc6FF1",
+      "record_id": "recuSeGGLc6FF1"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-003",
+        "自动分类": "存储",
+        "设备信息": "不稳定",
+        "设备名称": "Raid绿联-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGGLcnVaK",
+      "record_id": "recuSeGGLcnVaK"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-004",
+        "自动分类": "存储",
+        "设备名称": "Raid绿联-04",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGGLcskiT",
+      "record_id": "recuSeGGLcskiT"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-005",
+        "自动分类": "存储",
+        "设备名称": "Raid威联通-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGGLcEiOi",
+      "record_id": "recuSeGGLcEiOi"
+    },
+    {
+      "fields": {
+        "二维码": "CC-RAID-006",
+        "自动分类": "存储",
+        "设备名称": "Raid威联通-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuZt7xEtn6dg",
+      "record_id": "recuZt7xEtn6dg"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-22-003",
+        "当前位置": "交付科大李泽峰老师",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2212003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvrond",
+      "record_id": "recvngssbvrond"
+    },
+    {
+      "fields": {
+        "二维码": "DAS2-23-01",
+        "当前位置": "库存检查",
+        "自动分类": "DAS",
+        "设备信息": "在库",
+        "设备名称": "ZD-DAS22306011",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvngssbvsBkn",
+      "record_id": "recvngssbvsBkn"
+    },
+    {
+      "fields": {
+        "二维码": "DAS2-23-02",
+        "自动分类": "DAS",
+        "设备信息": "在库",
+        "设备名称": "ZD-DAS22308012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvngssbv0Z8U",
+      "record_id": "recvngssbv0Z8U"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-001",
+        "当前位置": "淮南/河南理工",
+        "自动分类": "DAS",
+        "设备信息": "返回设备部",
+        "设备名称": "ZD-DAS2302001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recxjVPD9M",
+      "record_id": "recxjVPD9M"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-002",
+        "当前位置": "在库",
+        "自动分类": "DAS",
+        "设备信息": "改成VSP后改回",
+        "设备名称": "ZD-DAS2302002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "reczghMsnH",
+      "record_id": "reczghMsnH"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-003",
+        "当前位置": "交付，预测所",
+        "自动分类": "DAS",
+        "设备信息": "新采集卡",
+        "设备名称": "ZD-DAS2303003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "rec2vQC0pW",
+      "record_id": "rec2vQC0pW"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-004",
+        "当前位置": "矿大师素珍",
+        "自动分类": "DAS",
+        "设备信息": "旧采集卡",
+        "设备名称": "ZD-DAS2303004",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recsbphsCR",
+      "record_id": "recsbphsCR"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-005",
+        "当前位置": "交付杭州浙大程逢",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2304005",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvqF2J",
+      "record_id": "recvngssbvqF2J"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-006",
+        "当前位置": "李卓合肥VSP",
+        "自动分类": "DAS",
+        "设备信息": "新采集卡，VSP",
+        "设备名称": "ZD-DAS2304006",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recXRW7Lc6",
+      "record_id": "recXRW7Lc6"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-007",
+        "当前位置": "胡敏哲（换用）",
+        "自动分类": "DAS",
+        "设备信息": "新采集卡",
+        "设备名称": "ZD-DAS2304007",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "rec0ADus4n",
+      "record_id": "rec0ADus4n"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-008",
+        "当前位置": "地大",
+        "最新出库时间": 46188.8528240741,
+        "自动分类": "DAS",
+        "设备信息": "新采集卡",
+        "设备名称": "ZD-DAS2304008",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvmFyJs3IHKQ",
+              "recvmFyJs3JfPP"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "12,15",
+            "text_arr": [
+              "12",
+              "15"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "rec34M2bqx",
+      "record_id": "rec34M2bqx"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-009",
+        "当前位置": "唐山/河南理工",
+        "自动分类": "DAS",
+        "设备信息": "新采集卡",
+        "设备名称": "ZD-DAS2306009",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recieIi9e0",
+      "record_id": "recieIi9e0"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-010",
+        "当前位置": "见微物探（深圳）",
+        "自动分类": "DAS",
+        "设备信息": "新采集卡",
+        "设备名称": "ZD-DAS2306010",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEIybNg85",
+      "record_id": "recuSeEIybNg85"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-011",
+        "自动分类": "DAS",
+        "设备信息": "2.0",
+        "设备名称": "ZD-DAS2306011",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "rec5RrA0XP",
+      "record_id": "rec5RrA0XP"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-012",
+        "自动分类": "DAS",
+        "设备信息": "2.0",
+        "设备名称": "ZD-DAS2308012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recgcuqSih",
+      "record_id": "recgcuqSih"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-013",
+        "当前位置": "王老师/甲基卡",
+        "自动分类": "DAS",
+        "设备信息": "旧采集卡",
+        "设备名称": "ZD-DAS2308013",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qYgcB",
+      "record_id": "recuSeEJ4qYgcB"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-014",
+        "当前位置": "烟台",
+        "自动分类": "DAS",
+        "设备信息": "已完成升级\n长距离信号均衡DAS",
+        "设备名称": "ZD-DAS2310014",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qVFKF",
+      "record_id": "recuSeEJ4qVFKF"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-015",
+        "当前位置": "交付地质大学李星老师",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2311015",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnggi4U5Rqk"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "25",
+            "text_arr": [
+              "25"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngfta4zg4O",
+      "record_id": "recvngfta4zg4O"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-DAS2311015",
+        "当前位置": "地质大学李星老师",
+        "自动分类": "DAS",
+        "设备信息": "由交付自动创建",
+        "设备名称": "ZD-DAS2311015",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnsbpgQhMAW"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "28",
+            "text_arr": [
+              "28"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvnrTsasNvXU",
+      "record_id": "recvnrTsasNvXU"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-001",
+        "当前位置": "河南局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2402001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvI0Yg",
+      "record_id": "recvngssbvI0Yg"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-002",
+        "当前位置": "贵州局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2402002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbv7ZBD",
+      "record_id": "recvngssbv7ZBD"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-003",
+        "当前位置": "贵州局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2403003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvkrY4",
+      "record_id": "recvngssbvkrY4"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-004",
+        "当前位置": "碳鑫交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2403004",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvjBJy",
+      "record_id": "recvngssbvjBJy"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-005",
+        "当前位置": "内蒙局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2403005",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvqVQN",
+      "record_id": "recvngssbvqVQN"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-006",
+        "当前位置": "安徽局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2403006",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngssbvEyVe",
+      "record_id": "recvngssbvEyVe"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-007",
+        "当前位置": "河北局唐山测试",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2404007",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvngstpG1XJu",
+      "record_id": "recvngstpG1XJu"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-008",
+        "当前位置": "河南局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2404008",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpG6XpS",
+      "record_id": "recvngstpG6XpS"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-009",
+        "当前位置": "黑龙江局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2404009",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGw4UA",
+      "record_id": "recvngstpGw4UA"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-010",
+        "当前位置": "云南局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2405010",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGYrCB",
+      "record_id": "recvngstpGYrCB"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-011",
+        "当前位置": "科大李泽峰交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2405011",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGzwYk",
+      "record_id": "recvngstpGzwYk"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-050",
+        "当前位置": "云南地震局红河交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2405012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGlhoi",
+      "record_id": "recvngstpGlhoi"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-013",
+        "当前位置": "江苏局中天交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2405013",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGgwZA",
+      "record_id": "recvngstpGgwZA"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-014",
+        "当前位置": "江苏局中天交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2405014",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGP80q",
+      "record_id": "recvngstpGP80q"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-015",
+        "当前位置": "江苏局中天交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406015",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpG5eHy",
+      "record_id": "recvngstpG5eHy"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-016",
+        "当前位置": "江苏局三产交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406016",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngstpGmC9b",
+      "record_id": "recvngstpGmC9b"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-017",
+        "当前位置": "江苏局三产交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406017",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8tKEi",
+      "record_id": "recvngsuI8tKEi"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-018",
+        "当前位置": "江苏局三产交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406018",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8G8ZE",
+      "record_id": "recvngsuI8G8ZE"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-019",
+        "当前位置": "四川局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406019",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8tcZP",
+      "record_id": "recvngsuI8tcZP"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-020",
+        "当前位置": "江苏局三产交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2406020",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8vnZb",
+      "record_id": "recvngsuI8vnZb"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-021",
+        "当前位置": "新疆局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2407021",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8Gn3k",
+      "record_id": "recvngsuI8Gn3k"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-022",
+        "当前位置": "广东局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2407022",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8r0ZS",
+      "record_id": "recvngsuI8r0ZS"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-023",
+        "当前位置": "预测所交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2407023",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8dYnY",
+      "record_id": "recvngsuI8dYnY"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-024",
+        "当前位置": "广东局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2407024",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8TlSa",
+      "record_id": "recvngsuI8TlSa"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-025",
+        "当前位置": "安徽局二轮交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2407025",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI8ZxSy",
+      "record_id": "recvngsuI8ZxSy"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-012",
+        "自动分类": "DAS",
+        "设备信息": "800M",
+        "设备名称": "ZD-DAS2408012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qfWjs",
+      "record_id": "recuSeEJ4qfWjs"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-026",
+        "当前位置": "安徽局二轮交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2408026",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsuI81qJi",
+      "record_id": "recvngsuI81qJi"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-027",
+        "当前位置": "预测所交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2408027",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsvU8Kx0H",
+      "record_id": "recvngsvU8Kx0H"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-028",
+        "当前位置": "南科大交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2408028",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsvU8FaiH",
+      "record_id": "recvngsvU8FaiH"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-029",
+        "当前位置": "清华交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2408029",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsvU8DYfC",
+      "record_id": "recvngsvU8DYfC"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-030",
+        "当前位置": "新疆局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2408030",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvngsvU8A502",
+      "record_id": "recvngsvU8A502"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-031",
+        "当前位置": "科大东区实验室交付",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2409031",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuSeEJ4qEEfp",
+      "record_id": "recuSeEJ4qEEfp"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-032",
+        "当前位置": "地大李星老师",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2409032",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qm68w",
+      "record_id": "recuSeEJ4qm68w"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-033",
+        "当前位置": "河北地震局唐山测试",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2409033",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qn14z",
+      "record_id": "recuSeEJ4qn14z"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "最新入库时间": 46189.401724537,
+        "最新出库时间": 46188.8528240741,
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2409034",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnevZeSIGNo",
+              "recvmFyJs3wsC7",
+              "recvmFyJs3wY0Z",
+              "recvmFyJs3ZumQ",
+              "recvmFyJs3lYrg"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "19,1,5,6,8",
+            "text_arr": [
+              "19",
+              "1",
+              "5",
+              "6",
+              "8"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeEJ4qQqDh",
+      "record_id": "recuSeEJ4qQqDh"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-035",
+        "当前位置": "交付浙大林建民",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2409035",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuSeEJ4qNfts",
+      "record_id": "recuSeEJ4qNfts"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-001",
+        "当前位置": "雷宇航甘肃酒泉，",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2501001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qXcIv",
+      "record_id": "recuSeEJ4qXcIv"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-002",
+        "当前位置": "北京祝老师测试",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2501002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qklS1",
+      "record_id": "recuSeEJ4qklS1"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-003",
+        "当前位置": "河南局巨灾2025交付",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2502003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuSeEJ4q29RE",
+      "record_id": "recuSeEJ4q29RE"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-004",
+        "当前位置": "260427港中文",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2502004",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeEJ4qfTlt",
+      "record_id": "recuSeEJ4qfTlt"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-005",
+        "当前位置": "巨灾河北局交付，更换",
+        "最新入库时间": 46184.7278240741,
+        "最新出库时间": 45831.6666666667,
+        "自动分类": "DAS",
+        "设备信息": "24新4G（换雄安设备）",
+        "设备名称": "ZD-DAS2502005",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnevZeSH7Wc",
+              "recvmFyJs3scOf"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "20,9",
+            "text_arr": [
+              "20",
+              "9"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuSeEJ4qTul0",
+      "record_id": "recuSeEJ4qTul0"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-006",
+        "当前位置": "淮南潘一",
+        "最新出库时间": 46184.7278240741,
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2502006",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvmFyJs3AqTv"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "3",
+            "text_arr": [
+              "3"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSS2TwfRgoG",
+      "record_id": "recuSS2TwfRgoG"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-007",
+        "当前位置": "中科院声学所交付",
+        "自动分类": "DAS",
+        "设备信息": "特供",
+        "设备名称": "ZD-DAS2503007",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuSBj33JziTQ",
+      "record_id": "recuSBj33JziTQ"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-008",
+        "当前位置": "成都理工地物院交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2503008",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recuZ7mGHuqBr1",
+      "record_id": "recuZ7mGHuqBr1"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-009",
+        "当前位置": "合巢芜高速项目",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2503009",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recv3qCxUhQW2P",
+      "record_id": "recv3qCxUhQW2P"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-010",
+        "当前位置": "中国海洋大学交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2503010",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recv5v9e7NjUtQ",
+      "record_id": "recv5v9e7NjUtQ"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-011",
+        "当前位置": "西安石油大学演示",
+        "自动分类": "DAS",
+        "设备信息": "24新4G",
+        "设备名称": "ZD-DAS2504011",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnDOEDQGXkF"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "37",
+            "text_arr": [
+              "37"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvcjVIKPg2D0",
+      "record_id": "recvcjVIKPg2D0"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-001",
+        "当前位置": "0521岳武高速",
+        "自动分类": "DAS",
+        "设备信息": "长距离信号均衡器",
+        "设备名称": "ZD-DAS2601001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvcjTGVolRrq",
+      "record_id": "recvcjTGVolRrq"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-002",
+        "当前位置": "天津地震局交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2601002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvcjTQRZad2o",
+      "record_id": "recvcjTQRZad2o"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-003",
+        "当前位置": "成都理工环工院交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2602003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvcjU2CSdnJR",
+      "record_id": "recvcjU2CSdnJR"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-004",
+        "当前位置": "GEOPSI测试",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2603004",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7lZvJcuY4",
+      "record_id": "recvk7lZvJcuY4"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-005",
+        "当前位置": "科大盛一笑交付",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2603005",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已交付"
+      },
+      "id": "recvk7m1CirqxT",
+      "record_id": "recvk7m1CirqxT"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-006",
+        "当前位置": "GEOPSI测试",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2604006",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1CiQQyB",
+      "record_id": "recvk7m1CiQQyB"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-007",
+        "当前位置": "在库，PCIE测试中",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2604007",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvk7m1CiIlge",
+      "record_id": "recvk7m1CiIlge"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-008",
+        "当前位置": "0616科大盛一笑替换使用",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2605008",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1CiNje7",
+      "record_id": "recvk7m1CiNje7"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-009",
+        "当前位置": "在库",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2606009",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvk7m1Ci9ewI",
+      "record_id": "recvk7m1Ci9ewI"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-010",
+        "当前位置": "李星老师展示",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2606010",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1CikXTM",
+      "record_id": "recvk7m1CikXTM"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-011",
+        "当前位置": "在库",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2607011",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvk7m1CiRH3p",
+      "record_id": "recvk7m1CiRH3p"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-012",
+        "当前位置": "在库",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2608012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvk7m1CiVkl7",
+      "record_id": "recvk7m1CiVkl7"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-013",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2608013",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1Ci6KDS",
+      "record_id": "recvk7m1Ci6KDS"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-014",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2609014",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1Ci72sh",
+      "record_id": "recvk7m1Ci72sh"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-26-015",
+        "自动分类": "DAS",
+        "设备名称": "ZD-DAS2609015",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvk7m1Cisd4F",
+      "record_id": "recvk7m1Cisd4F"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-401",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-2402001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFc82A3ne",
+      "record_id": "recuSeFc82A3ne"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-423",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-2407023",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskYQGu",
+      "record_id": "recuSeFdskYQGu"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-001",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-USTC-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskx6mO",
+      "record_id": "recuSeFdskx6mO"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-101",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-Ruidy",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdsk1o3t",
+      "record_id": "recuSeFdsk1o3t"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-002",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskgiG8",
+      "record_id": "recuSeFdskgiG8"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-003",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskp2Xe",
+      "record_id": "recuSeFdskp2Xe"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-004",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS04",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskBopt",
+      "record_id": "recuSeFdskBopt"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-005",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS05",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdsk45Nm",
+      "record_id": "recuSeFdsk45Nm"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-006",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS06",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskbdYF",
+      "record_id": "recuSeFdskbdYF"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-007",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS07",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskiRmt",
+      "record_id": "recuSeFdskiRmt"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-008",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS08",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskWupj",
+      "record_id": "recuSeFdskWupj"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-009",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS09",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeFdskI2qL",
+      "record_id": "recuSeFdskI2qL"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-010",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS10",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskj2qw",
+      "record_id": "recuSeFdskj2qw"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-102",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "华为电脑",
+        "设备名称": "笔记本电脑-ZD-WS102",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBIOARN5Vl",
+      "record_id": "recvnBIOARN5Vl"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-103",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "华为笔记本(网口有问题)",
+        "设备名称": "笔记本电脑-ZD-WS103",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBJqCkywYY",
+      "record_id": "recvnBJqCkywYY"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-104",
+        "当前位置": "西安石油大学演示",
+        "自动分类": "电脑/IT",
+        "设备信息": "华为笔记本",
+        "设备名称": "笔记本电脑-ZD-WS104",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnDOEZaYOuE"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "38",
+            "text_arr": [
+              "38"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvnBKlooeePW",
+      "record_id": "recvnBKlooeePW"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-105",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "ThinkPad",
+        "设备名称": "笔记本电脑-ZD-WS105",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBL8d8BMxk",
+      "record_id": "recvnBL8d8BMxk"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-106",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "ThinkBook",
+        "设备名称": "笔记本电脑-ZD-WS106",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBLBLkhlAm",
+      "record_id": "recvnBLBLkhlAm"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-107",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "ThinkBook. DTS",
+        "设备名称": "笔记本电脑-ZD-WS107",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBLUuZwxaz",
+      "record_id": "recvnBLUuZwxaz"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-108",
+        "当前位置": "库存检查",
+        "自动分类": "电脑/IT",
+        "设备信息": "ThinkPad",
+        "设备名称": "笔记本电脑-ZD-WS108",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBMdxCaoig",
+      "record_id": "recvnBMdxCaoig"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-011",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS11",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskMwRZ",
+      "record_id": "recuSeFdskMwRZ"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-012",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS12",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskpEJj",
+      "record_id": "recuSeFdskpEJj"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-403",
+        "自动分类": "电脑/IT",
+        "设备信息": "华为",
+        "设备名称": "笔记本电脑-ZD-WS2403003",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdsktveg",
+      "record_id": "recuSeFdsktveg"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-406",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS2403006",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFdskgB8B",
+      "record_id": "recuSeFdskgB8B"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-512",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS2405012",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvcve64VpSxr",
+      "record_id": "recvcve64VpSxr"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-013",
+        "最新入库时间": 46188.8528240741,
+        "最新出库时间": 46184.7278240741,
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS50",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvmFyJs3fSzP",
+              "recvmFyJs3tRIB"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "2,7",
+            "text_arr": [
+              "2",
+              "7"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSBFKB2IwS0",
+      "record_id": "recuSBFKB2IwS0"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-014",
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS51",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSBFQNCVsUY",
+      "record_id": "recuSBFQNCVsUY"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-015",
+        "当前位置": "库存核查",
+        "最新入库时间": 46199.3738194444,
+        "最新出库时间": 46184.7278240741,
+        "自动分类": "电脑/IT",
+        "设备名称": "笔记本电脑-ZD-WS52",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvmFyJs3Ycqy",
+              "recvnBHJmNw41T"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "4,36",
+            "text_arr": [
+              "4",
+              "36"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSBFTpXaYTA",
+      "record_id": "recuSBFTpXaYTA"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-001",
+        "自动分类": "光纤工具",
+        "设备名称": "光功率计-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFNOdqfaj",
+      "record_id": "recuSeFNOdqfaj"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-002",
+        "自动分类": "光纤工具",
+        "设备名称": "光纤端面检测仪-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFQjNl3yd",
+      "record_id": "recuSeFQjNl3yd"
+    },
+    {
+      "fields": {
+        "二维码": "GX-GJX-001",
+        "自动分类": "光纤工具",
+        "设备名称": "光纤工具箱",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFFULuqNX",
+      "record_id": "recuSeFFULuqNX"
+    },
+    {
+      "fields": {
+        "二维码": "GX-LX-001",
+        "当前位置": "库存检查",
+        "自动分类": "光纤工具",
+        "设备信息": "2km",
+        "设备名称": "光纤盘-001",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBPUDLQ1fw",
+      "record_id": "recvnBPUDLQ1fw"
+    },
+    {
+      "fields": {
+        "二维码": "GX-LX-002",
+        "自动分类": "光纤工具",
+        "设备名称": "光纤盘-002",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recvnBUVelrSY7",
+      "record_id": "recvnBUVelrSY7"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-001",
+        "当前位置": "库存检查",
+        "最新出库时间": 46188.8528240741,
+        "自动分类": "光纤工具",
+        "设备信息": "藤仓",
+        "设备名称": "光纤熔接机-01",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvmFyJs37Av0",
+              "recvmFyJs3xops"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "13,16",
+            "text_arr": [
+              "13",
+              "16"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeFiVDHTEe",
+      "record_id": "recuSeFiVDHTEe"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-002",
+        "当前位置": "西安石油大学",
+        "自动分类": "光纤工具",
+        "设备信息": "藤仓",
+        "设备名称": "光纤熔接机-02",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvnVjUHUxt5h"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "39",
+            "text_arr": [
+              "39"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFpcpS9ZG",
+      "record_id": "recuSeFpcpS9ZG"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-003",
+        "自动分类": "光纤工具",
+        "设备信息": "TNF",
+        "设备名称": "光纤熔接机-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFpcpe024",
+      "record_id": "recuSeFpcpe024"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-004",
+        "出库状态": [
+          {
+            "text": "异常出库",
+            "type": "text"
+          }
+        ],
+        "最新入库时间": 46184.7278240741,
+        "最新出库时间": 45833.6666666667,
+        "自动分类": "光纤工具",
+        "设备信息": "相和",
+        "设备名称": "光纤熔接机-04",
+        "设备履历": [
+          {
+            "record_ids": [
+              "recvneF0iZj3cO",
+              "recvmFyJs3RKzv"
+            ],
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text": "24,14",
+            "text_arr": [
+              "24",
+              "14"
+            ],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFpcpMLZS",
+      "record_id": "recuSeFpcpMLZS"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-005",
+        "自动分类": "光纤工具",
+        "设备信息": "相和",
+        "设备名称": "光纤熔接机-05",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recvcnQIG6ahyP",
+      "record_id": "recvcnQIG6ahyP"
+    },
+    {
+      "fields": {
+        "二维码": "Eth-SW-01",
+        "自动分类": "电脑/IT",
+        "设备名称": "交换机-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGI3FVehY",
+      "record_id": "recuSeGI3FVehY"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-003",
+        "自动分类": "光纤工具",
+        "设备名称": "拉曼放大器-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeFUqBp3LI",
+      "record_id": "recuSeFUqBp3LI"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-004",
+        "自动分类": "光纤工具",
+        "设备名称": "数字示波器-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG4vYkn49",
+      "record_id": "recuSeG4vYkn49"
+    },
+    {
+      "fields": {
+        "二维码": "CC-NAS-001",
+        "当前位置": "库存检查",
+        "自动分类": "存储",
+        "设备信息": "用户名：ZDGZSBB1\n密码：zdgz1234",
+        "设备名称": "网络存储服务器-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuSeGy8X6rSE",
+      "record_id": "recuSeGy8X6rSE"
+    },
+    {
+      "fields": {
+        "二维码": "CC-NAS-002",
+        "自动分类": "存储",
+        "设备名称": "网络存储服务器-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGA4fMEZN",
+      "record_id": "recuSeGA4fMEZN"
+    },
+    {
+      "fields": {
+        "二维码": "CC-NAS-003",
+        "自动分类": "存储",
+        "设备名称": "网络存储服务器-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGA4fIaND",
+      "record_id": "recuSeGA4fIaND"
+    },
+    {
+      "fields": {
+        "二维码": "CC-NAS-004",
+        "自动分类": "存储",
+        "设备名称": "网络存储服务器-USTC",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGA4fuANJ",
+      "record_id": "recuSeGA4fuANJ"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-005",
+        "自动分类": "其他",
+        "设备名称": "万用表-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG4vYmUBb",
+      "record_id": "recuSeG4vYmUBb"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-006",
+        "自动分类": "其他",
+        "设备名称": "小推车",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGrTQ8FWO",
+      "record_id": "recuSeGrTQ8FWO"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-007",
+        "自动分类": "光纤工具",
+        "设备名称": "信号发生器=01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGdfpNqmJ",
+      "record_id": "recuSeGdfpNqmJ"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-001",
+        "自动分类": "存储",
+        "设备信息": "横插",
+        "设备名称": "硬盘盒-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuUY4a4ZoRoN",
+      "record_id": "recuUY4a4ZoRoN"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-002",
+        "当前位置": "库存检查",
+        "自动分类": "存储",
+        "设备信息": "横插",
+        "设备名称": "硬盘盒-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuUY4bNCnavM",
+      "record_id": "recuUY4bNCnavM"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-003",
+        "自动分类": "存储",
+        "设备信息": "竖插",
+        "设备名称": "硬盘盒-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuUY4gqT0RZ3",
+      "record_id": "recuUY4gqT0RZ3"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-004",
+        "自动分类": "存储",
+        "设备信息": "竖插",
+        "设备名称": "硬盘盒-04",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuUY4n23oGkJ",
+      "record_id": "recuUY4n23oGkJ"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-005",
+        "当前位置": "库存检查",
+        "自动分类": "存储",
+        "设备信息": "横插",
+        "设备名称": "硬盘盒-05",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuVee6dGZdSp",
+      "record_id": "recuVee6dGZdSp"
+    },
+    {
+      "fields": {
+        "二维码": "CC-YPH-006",
+        "当前位置": "库存检查",
+        "自动分类": "存储",
+        "设备信息": "横插",
+        "设备名称": "硬盘盒-06",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "在库"
+      },
+      "id": "recuVegXB1zIC2",
+      "record_id": "recuVegXB1zIC2"
+    },
+    {
+      "fields": {
+        "二维码": "IT-HDD-ZW",
+        "自动分类": "电脑/IT",
+        "设备名称": "移动硬盘-黄旺",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGjNiULjw",
+      "record_id": "recuSeGjNiULjw"
+    },
+    {
+      "fields": {
+        "二维码": "IT-HDD-LLM",
+        "自动分类": "电脑/IT",
+        "设备信息": "固态4T",
+        "设备名称": "移动硬盘-刘李明",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuTeP4XTX95c",
+      "record_id": "recuTeP4XTX95c"
+    },
+    {
+      "fields": {
+        "二维码": "IT-HDD-LZ",
+        "自动分类": "电脑/IT",
+        "设备名称": "移动硬盘-刘智",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGouoSMhD",
+      "record_id": "recuSeGouoSMhD"
+    },
+    {
+      "fields": {
+        "二维码": "IT-HDD-XSM",
+        "自动分类": "电脑/IT",
+        "设备名称": "移动硬盘-徐胜明",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGouobYm4",
+      "record_id": "recuSeGouobYm4"
+    },
+    {
+      "fields": {
+        "二维码": "IT-HDD-ZR",
+        "自动分类": "电脑/IT",
+        "设备名称": "移动硬盘-张锐",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeGouoIcFs",
+      "record_id": "recuSeGouoIcFs"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-008",
+        "自动分类": "其他",
+        "设备名称": "直流电源-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG7QYTNWQ",
+      "record_id": "recuSeG7QYTNWQ"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-009",
+        "自动分类": "其他",
+        "设备名称": "直流电源-02",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG8lGa2LP",
+      "record_id": "recuSeG8lGa2LP"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-010",
+        "自动分类": "其他",
+        "设备名称": "直流电源-03",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG8lG6u97",
+      "record_id": "recuSeG8lG6u97"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-GZ-011",
+        "自动分类": "其他",
+        "设备名称": "智能综合热风焊台-01",
+        "设备履历": [
+          {
+            "table_id": "tblo2KlIrRCJDT9R",
+            "text_arr": [],
+            "type": "text"
+          }
+        ],
+        "设备状态": "已出库"
+      },
+      "id": "recuSeG8lGbpra",
+      "record_id": "recuSeG8lGbpra"
+    }
+  ],
+  "flows": [
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qQqDh"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2409034",
+            "text_arr": [
+              "ZD-DAS2409034"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "1",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2409034",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "合肥轨道科教中心"
+      },
+      "id": "recvmFyJs3wsC7",
+      "record_id": "recvmFyJs3wsC7"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-013",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSBFKB2IwS0"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "笔记本电脑-ZD-WS50",
+            "text_arr": [
+              "笔记本电脑-ZD-WS50"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "2",
+        "设备名称": [
+          {
+            "text": "笔记本电脑-ZD-WS50",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "合肥轨道科教中心"
+      },
+      "id": "recvmFyJs3fSzP",
+      "record_id": "recvmFyJs3fSzP"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-006",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSS2TwfRgoG"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2502006",
+            "text_arr": [
+              "ZD-DAS2502006"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "3",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2502006",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "甘肃敦煌"
+      },
+      "id": "recvmFyJs3AqTv",
+      "record_id": "recvmFyJs3AqTv"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-015",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSBFTpXaYTA"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "笔记本电脑-ZD-WS52",
+            "text_arr": [
+              "笔记本电脑-ZD-WS52"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "4",
+        "设备名称": [
+          {
+            "text": "笔记本电脑-ZD-WS52",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "青海"
+      },
+      "id": "recvmFyJs3Ycqy",
+      "record_id": "recvmFyJs3Ycqy"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qQqDh"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2409034",
+            "text_arr": [
+              "ZD-DAS2409034"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781353684000,
+        "类型": "出库",
+        "自动编号": "5",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2409034",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "南科大滨湖测试"
+      },
+      "id": "recvmFyJs3wY0Z",
+      "record_id": "recvmFyJs3wY0Z"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qQqDh"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2409034",
+            "text_arr": [
+              "ZD-DAS2409034"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781526484000,
+        "类型": "出库",
+        "自动编号": "6",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2409034",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "黄旺噪声测试"
+      },
+      "id": "recvmFyJs3ZumQ",
+      "record_id": "recvmFyJs3ZumQ"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-013",
+        "备注": "从合肥轨道归还",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSBFKB2IwS0"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "笔记本电脑-ZD-WS50",
+            "text_arr": [
+              "笔记本电脑-ZD-WS50"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781526484000,
+        "类型": "入库",
+        "自动编号": "7",
+        "设备名称": [
+          {
+            "text": "笔记本电脑-ZD-WS50",
+            "type": "text"
+          }
+        ]
+      },
+      "id": "recvmFyJs3tRIB",
+      "record_id": "recvmFyJs3tRIB"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "备注": "从南科大滨湖测试归还",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qQqDh"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2409034",
+            "text_arr": [
+              "ZD-DAS2409034"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "刘智",
+        "操作时间": 1781573909000,
+        "类型": "入库",
+        "自动编号": "8",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2409034",
+            "type": "text"
+          }
+        ]
+      },
+      "id": "recvmFyJs3lYrg",
+      "record_id": "recvmFyJs3lYrg"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-005",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qTul0"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2502005",
+            "text_arr": [
+              "ZD-DAS2502005"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "入库",
+        "自动编号": "9",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2502005",
+            "type": "text"
+          }
+        ]
+      },
+      "id": "recvmFyJs3scOf",
+      "record_id": "recvmFyJs3scOf"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-004",
+        "备注": "去单县矿井做实验",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFApYl7fp"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "OTDR-04",
+            "text_arr": [
+              "OTDR-04"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "入库",
+        "自动编号": "10",
+        "设备名称": [
+          {
+            "text": "OTDR-04",
+            "type": "text"
+          }
+        ]
+      },
+      "id": "recvmFyJs3gfbI",
+      "record_id": "recvmFyJs3gfbI"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-004",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFApYl7fp"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "OTDR-04",
+            "text_arr": [
+              "OTDR-04"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781526484000,
+        "类型": "出库",
+        "自动编号": "11",
+        "设备名称": [
+          {
+            "text": "OTDR-04",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "地铁8号线安装"
+      },
+      "id": "recvmFyJs3tPcI",
+      "record_id": "recvmFyJs3tPcI"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-008",
+        "所属设备": [
+          {
+            "record_ids": [
+              "rec34M2bqx"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2304008",
+            "text_arr": [
+              "ZD-DAS2304008"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "12",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2304008",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "青海"
+      },
+      "id": "recvmFyJs3IHKQ",
+      "record_id": "recvmFyJs3IHKQ"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-001",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFiVDHTEe"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "光纤熔接机-01",
+            "text_arr": [
+              "光纤熔接机-01"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "出库",
+        "自动编号": "13",
+        "设备名称": [
+          {
+            "text": "光纤熔接机-01",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "杭州测试"
+      },
+      "id": "recvmFyJs37Av0",
+      "record_id": "recvmFyJs37Av0"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-004",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFpcpMLZS"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "光纤熔接机-04",
+            "text_arr": [
+              "光纤熔接机-04"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781170084000,
+        "类型": "入库",
+        "自动编号": "14",
+        "设备名称": [
+          {
+            "text": "光纤熔接机-04",
+            "type": "text"
+          }
+        ]
+      },
+      "id": "recvmFyJs3RKzv",
+      "record_id": "recvmFyJs3RKzv"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-23-008",
+        "所属设备": [
+          {
+            "record_ids": [
+              "rec34M2bqx"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2304008",
+            "text_arr": [
+              "ZD-DAS2304008"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781526484000,
+        "类型": "出库",
+        "自动编号": "15",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2304008",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "鄂尔多斯"
+      },
+      "id": "recvmFyJs3JfPP",
+      "record_id": "recvmFyJs3JfPP"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-001",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFiVDHTEe"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "光纤熔接机-01",
+            "text_arr": [
+              "光纤熔接机-01"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1781526484000,
+        "类型": "出库",
+        "自动编号": "16",
+        "设备名称": [
+          {
+            "text": "光纤熔接机-01",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "新疆军科院项目"
+      },
+      "id": "recvmFyJs3xops",
+      "record_id": "recvmFyJs3xops"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-24-034",
+        "备注": "看看5分钟后自动处理了没",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qQqDh"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2409034",
+            "text_arr": [
+              "ZD-DAS2409034"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "测试",
+        "操作时间": 1750665600000,
+        "类型": "出库",
+        "自动编号": "19",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2409034",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "自动化测试"
+      },
+      "id": "recvnevZeSIGNo",
+      "record_id": "recvnevZeSIGNo"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-005",
+        "备注": "看看5分钟后自动处理了没",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeEJ4qTul0"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2502005",
+            "text_arr": [
+              "ZD-DAS2502005"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "测试",
+        "操作时间": 1750665600000,
+        "类型": "出库",
+        "自动编号": "20",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2502005",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "自动化测试"
+      },
+      "id": "recvnevZeSH7Wc",
+      "record_id": "recvnevZeSH7Wc"
+    },
+    {
+      "fields": {
+        "二维码": "GX-OTDR-004",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFApYl7fp"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "OTDR-04",
+            "text_arr": [
+              "OTDR-04"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "张三",
+        "操作时间": 1750838400000,
+        "类型": "出库",
+        "自动编号": "23",
+        "设备名称": [
+          {
+            "text": "OTDR-04",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "测试条码关联"
+      },
+      "id": "recvneF0iZS8HE",
+      "record_id": "recvneF0iZS8HE"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-004",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFpcpMLZS"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "光纤熔接机-04",
+            "text_arr": [
+              "光纤熔接机-04"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "张三",
+        "操作时间": 1750838400000,
+        "类型": "出库",
+        "自动编号": "24",
+        "设备名称": [
+          {
+            "text": "光纤熔接机-04",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "测试条码关联"
+      },
+      "id": "recvneF0iZj3cO",
+      "record_id": "recvneF0iZj3cO"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-DAS2311015",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recvngfta4zg4O"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2311015",
+            "text_arr": [
+              "ZD-DAS2311015"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1782118408000,
+        "类型": "交付",
+        "自动编号": "25",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2311015",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "地质大学李星老师"
+      },
+      "id": "recvnggi4U5Rqk",
+      "record_id": "recvnggi4U5Rqk"
+    },
+    {
+      "fields": {
+        "二维码": "ZD-DAS2311015",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recvnrTsasNvXU"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2311015",
+            "text_arr": [
+              "ZD-DAS2311015"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作时间": 1782294810978,
+        "类型": "交付",
+        "自动编号": "28",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2311015",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "地质大学李星老师"
+      },
+      "id": "recvnsbpgQhMAW",
+      "record_id": "recvnsbpgQhMAW"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-015",
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSBFTpXaYTA"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "笔记本电脑-ZD-WS52",
+            "text_arr": [
+              "笔记本电脑-ZD-WS52"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "操作时间": 1782435498000,
+        "类型": "入库",
+        "自动编号": "36",
+        "设备名称": [
+          {
+            "text": "笔记本电脑-ZD-WS52",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "库存核查"
+      },
+      "id": "recvnBHJmNw41T",
+      "record_id": "recvnBHJmNw41T"
+    },
+    {
+      "fields": {
+        "二维码": "DAS-25-011",
+        "出库拍照": [
+          {
+            "file_token": "Ptwhb2x5Uoy8Z4x7yfWcDlMBnid",
+            "name": "Luban_1782466690610e866d414-62e7-4f0f-85ba-658b91f87967.jpeg",
+            "size": 1209429,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=Ptwhb2x5Uoy8Z4x7yfWcDlMBnid&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/Ptwhb2x5Uoy8Z4x7yfWcDlMBnid/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D"
+          }
+        ],
+        "所属设备": [
+          {
+            "record_ids": [
+              "recvcjVIKPg2D0"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "ZD-DAS2504011",
+            "text_arr": [
+              "ZD-DAS2504011"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "徐胜明",
+        "类型": "出库",
+        "自动编号": "37",
+        "设备名称": [
+          {
+            "text": "ZD-DAS2504011",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "西安石油大学演示"
+      },
+      "id": "recvnDOEDQGXkF",
+      "record_id": "recvnDOEDQGXkF"
+    },
+    {
+      "fields": {
+        "二维码": "IT-DN-104",
+        "出库拍照": [
+          {
+            "file_token": "Ptwhb2x5Uoy8Z4x7yfWcDlMBnid",
+            "name": "Luban_1782466690610e866d414-62e7-4f0f-85ba-658b91f87967.jpeg",
+            "size": 1209429,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=Ptwhb2x5Uoy8Z4x7yfWcDlMBnid&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/Ptwhb2x5Uoy8Z4x7yfWcDlMBnid/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D"
+          }
+        ],
+        "所属设备": [
+          {
+            "record_ids": [
+              "recvnBKlooeePW"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "笔记本电脑-ZD-WS104",
+            "text_arr": [
+              "笔记本电脑-ZD-WS104"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "徐胜明",
+        "类型": "出库",
+        "自动编号": "38",
+        "设备名称": [
+          {
+            "text": "笔记本电脑-ZD-WS104",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "西安石油大学演示"
+      },
+      "id": "recvnDOEZaYOuE",
+      "record_id": "recvnDOEZaYOuE"
+    },
+    {
+      "fields": {
+        "二维码": "GX-RJJ-002",
+        "出库拍照": [
+          {
+            "file_token": "YBJwbbRMooH9SgxxoGFcfYzlnFe",
+            "name": "IMG_20260629_172859.jpg",
+            "size": 3373173,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=YBJwbbRMooH9SgxxoGFcfYzlnFe&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/YBJwbbRMooH9SgxxoGFcfYzlnFe/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tblo2KlIrRCJDT9R%22%2C%22rev%22%3A73%7D%7D"
+          }
+        ],
+        "所属设备": [
+          {
+            "record_ids": [
+              "recuSeFpcpS9ZG"
+            ],
+            "table_id": "tblkmWJYPnrbStSJ",
+            "text": "光纤熔接机-02",
+            "text_arr": [
+              "光纤熔接机-02"
+            ],
+            "type": "text"
+          }
+        ],
+        "操作人": "用户106902",
+        "类型": "出库",
+        "自动编号": "39",
+        "设备名称": [
+          {
+            "text": "光纤熔接机-02",
+            "type": "text"
+          }
+        ],
+        "项目/目的地": "西安石油大学"
+      },
+      "id": "recvnVjUHUxt5h",
+      "record_id": "recvnVjUHUxt5h"
+    }
+  ],
+  "projectRecords": [
+    {
+      "fields": {
+        "入库人员": "用户106902",
+        "入库时间": 1782435498000,
+        "出库批次": [
+          {
+            "text": "库存核查--",
+            "type": "text"
+          }
+        ],
+        "项目": "库存核查"
+      },
+      "id": "recvnBHIO7YKL5",
+      "record_id": "recvnBHIO7YKL5"
+    },
+    {
+      "fields": {
+        "出库人员": "徐胜明",
+        "出库批次": [
+          {
+            "text": "西安石油大学演示-徐胜明-2026-06-26",
+            "type": "text"
+          }
+        ],
+        "出库拍照": [
+          {
+            "file_token": "Ptwhb2x5Uoy8Z4x7yfWcDlMBnid",
+            "name": "Luban_1782466690610e866d414-62e7-4f0f-85ba-658b91f87967.jpeg",
+            "size": 1209429,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=Ptwhb2x5Uoy8Z4x7yfWcDlMBnid&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/Ptwhb2x5Uoy8Z4x7yfWcDlMBnid/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D"
+          }
+        ],
+        "出库时间": 1782466698000,
+        "项目": "西安石油大学演示"
+      },
+      "id": "recvnDODCaVlQJ",
+      "record_id": "recvnDODCaVlQJ"
+    },
+    {
+      "fields": {
+        "出库人员": "徐胜明",
+        "出库批次": [
+          {
+            "text": "西安石油大学演示-徐胜明-2026-06-26",
+            "type": "text"
+          }
+        ],
+        "出库拍照": [
+          {
+            "file_token": "Ptwhb2x5Uoy8Z4x7yfWcDlMBnid",
+            "name": "Luban_1782466690610e866d414-62e7-4f0f-85ba-658b91f87967.jpeg",
+            "size": 1209429,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=Ptwhb2x5Uoy8Z4x7yfWcDlMBnid&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/Ptwhb2x5Uoy8Z4x7yfWcDlMBnid/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D"
+          }
+        ],
+        "出库时间": 1782466698000,
+        "项目": "西安石油大学演示"
+      },
+      "id": "recvnDODVh7SRW",
+      "record_id": "recvnDODVh7SRW"
+    },
+    {
+      "fields": {
+        "出库人员": "1",
+        "出库批次": [
+          {
+            "text": "1-1-",
+            "type": "text"
+          }
+        ],
+        "项目": "1"
+      },
+      "id": "recvnUAjE0A6Xt",
+      "record_id": "recvnUAjE0A6Xt"
+    },
+    {
+      "fields": {
+        "出库人员": "1",
+        "出库批次": [
+          {
+            "text": "2-1-",
+            "type": "text"
+          }
+        ],
+        "项目": "2"
+      },
+      "id": "recvnUAkGTyB6n",
+      "record_id": "recvnUAkGTyB6n"
+    },
+    {
+      "fields": {
+        "出库人员": "1",
+        "出库批次": [
+          {
+            "text": "3-1-",
+            "type": "text"
+          }
+        ],
+        "项目": "3"
+      },
+      "id": "recvnUAlas1EIu",
+      "record_id": "recvnUAlas1EIu"
+    },
+    {
+      "fields": {
+        "出库人员": "用户106902",
+        "出库批次": [
+          {
+            "text": "西安石油大学-用户106902-2026-06-29",
+            "type": "text"
+          }
+        ],
+        "出库拍照": [
+          {
+            "file_token": "YBJwbbRMooH9SgxxoGFcfYzlnFe",
+            "name": "IMG_20260629_172859.jpg",
+            "size": 3373173,
+            "tmp_url": "https://open.feishu.cn/open-apis/drive/v1/medias/batch_get_tmp_download_url?file_tokens=YBJwbbRMooH9SgxxoGFcfYzlnFe&extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D",
+            "type": "image/jpeg",
+            "url": "https://open.feishu.cn/open-apis/drive/v1/medias/YBJwbbRMooH9SgxxoGFcfYzlnFe/download?extra=%7B%22bitablePerm%22%3A%7B%22tableId%22%3A%22tbls22SjpRoRZRWo%22%2C%22rev%22%3A122%7D%7D"
+          }
+        ],
+        "出库时间": 1782725347000,
+        "项目": "西安石油大学"
+      },
+      "id": "recvnVjTR9L75T",
+      "record_id": "recvnVjTR9L75T"
+    }
+  ],
+  "exportedAt": 1782780354377
+}
